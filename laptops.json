@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Dell Inspiron",
+    "processor": "Intel Core i5",
+    "ram": 8,
+    "touchScreen": false,
+    "features": ["Backlit Keyboard", "Fingerprint Reader", "HD Webcam"]
+  },
+  {
+    "name": "MacBook Air",
+    "processor": "Apple M1",
+    "ram": 16,
+    "touchScreen": false,
+    "features": ["Retina Display", "Thunderbolt 3", "FaceTime HD Camera"]
+  },
+  {
+    "name": "HP Pavilion",
+    "processor": "AMD Ryzen 7",
+    "ram": 12,
+    "touchScreen": true,
+    "features": ["B&O Audio", "Fast Charging", "HP Wide Vision HD Camera"]
+  },
+  {
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "processor": "Intel Core i7",
+    "ram": 16,
+    "touchScreen": false,
+    "features": ["Dolby Atmos Speaker System", "Integrated HD Graphics"]
+  },
+  {
+    "name": "Asus ROG Zephyrus G14",
+    "processor": "AMD Ryzen 9",
+    "ram": 32,
+    "touchScreen": false,
+    "features": ["AniMe Matrix LED Display", "ROG Intelligent Cooling", "Wi-Fi 6"]
+  }
+]
